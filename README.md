@@ -30,6 +30,11 @@
     <img src="https://komarev.com/ghpvc/?username=EliseuSantos&label=Visualizações&color=red&style=for-the-badge" alt="Contador de Visitas" />
   </a>
 
+ <a href="https://github.com/EliseuSantos">
+      <img src="https://img.shields.io/github/sponsors/EliseuSantos?label=Sponsor&logo=GitHub" height="28" alt="Contador de Visitas" />
+</a>
+  
+
 </div>
 
 ---

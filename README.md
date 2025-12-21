@@ -23,17 +23,16 @@
   </a>
 
   <a href="https://wakatime.com/@afc34c3a-f4b9-42ef-a9e5-986855fc03ef">
-    <img src="https://wakatime.com/badge/user/afc34c3a-f4b9-42ef-a9e5-986855fc03ef.svg?style=for-the-badge" alt="Tempo de programação via Wakatime" />
+    <img src="https://wakatime.com/badge/user/afc34c3a-f4b9-42ef-a9e5-986855fc03ef.svg?style=for-the-badge" alt="Tempo de Programação via Wakatime" />
   </a>
 
   <a href="https://github.com/EliseuSantos">
-    <img src="https://komarev.com/ghpvc/?username=EliseuSantos&label=Visualizações&color=red&style=for-the-badge" alt="Contador de Visitas" />
+    <img src="https://komarev.com/ghpvc/?username=EliseuSantos&label=Visualiza%C3%A7%C3%B5es&color=red&style=for-the-badge" alt="Contador de Visitas" />
   </a>
 
- <a href="https://github.com/EliseuSantos">
-      <img src="https://img.shields.io/github/sponsors/EliseuSantos?label=Sponsor&logo=GitHub" height="28" alt="Contador de Visitas" />
-</a>
-  
+  <a href="https://github.com/EliseuSantos">
+    <img src="https://img.shields.io/github/sponsors/EliseuSantos?label=Sponsor&logo=GitHub&style=for-the-badge" alt="Sponsor EliseuSantos" />
+  </a>
 
 </div>
 
@@ -41,22 +40,24 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um **Desenvolvedor Full Stack** com mais de **10 anos de experiência**, especializado em **MicroFrontends**, **arquitetura de sistemas** e soluções digitais de **alto desempenho**. Tenho paixão por:
+Sou um **Software Developer** com mais de **10 anos de experiência**, especializado em **MicroFrontends**, **arquitetura de sistemas distribuídos** e **engenharia de plataformas**. Tenho foco em construir soluções digitais **escaláveis e de alto desempenho**, transformando desafios complexos em produtos de impacto. Ao longo da minha carreira, já liderei times de desenvolvimento e contribuí para soluções que impactaram **milhões de usuários** em diversos setores.
 
-- **Frontend:** ReactJS, Angular, VueJS, SingleSPA
-- **Backend:** Node.js (NestJS, Express), PHP (Laravel, Symfony, CodeIgniter), Python, Java (Spring)
-- **Infraestrutura:** AWS, Kubernetes, Docker, Terraform, GitHub Actions
-- **Blockchain:** Desenvolvimento de soluções em Bitcoin, Ethereum, SmartContracts
+Tenho paixão por:
 
-🎸 Além de tecnologia, sou músico nas horas vagas (teclado, guitarra, baixo, bateria e melódica), apaixonado por inovação, automação residencial, elétrica e CFTV.
+- **Frontend:** ReactJS, Angular, VueJS, **Next.js**, SingleSPA, Design Systems
+- **Backend:** Node.js (NestJS, Express), PHP (Laravel, Symfony), Python, Java (Spring)
+- **Infraestrutura:** AWS, Oracle, Kubernetes, Docker, Terraform, GitHub Actions (CI/CD)
+- **Blockchain:** Desenvolvimento de soluções em Bitcoin, Ethereum, Smart Contracts
 
-🚀 Atualmente focado em projetos próprios, inovação em MicroFrontends e explorando inteligência artificial aplicada a plataformas SaaS.
+🎸 Além de tecnologia, sou músico nas horas vagas (teclado, guitarra, baixo, bateria e melódica). Também sou entusiasta de inovação, automação residencial, eletrônica/elétrica e sistemas de CFTV.
 
-💬 **Me pergunte sobre:** Arquitetura de Software, MicroFrontends, APIs, Cloud, Sistemas Distribuídos, Blockchain, DevOps, Design Patterns e Segurança.
+🚀 Atualmente estou focado em projetos próprios e também aberto a novas oportunidades, principalmente em inovação com MicroFrontends e aplicações de inteligência artificial em plataformas SaaS.
+
+💬 **Me pergunte sobre:** Arquitetura de Software, MicroFrontends, APIs, Cloud, Sistemas Distribuídos, Blockchain, DevOps, Design Patterns, Segurança e Inteligência Artificial.
 
 📫 **Onde me encontrar:** Nos links acima ☝️ ou no meu [site pessoal](https://eliseu.dev/).
 
-⚡ **Curiosidade:** Amo Programação, Criptomoedas (especialmente BTC), Inovação e Música.
+⚡ **Curiosidade:** Amo programação, criptomoedas (especialmente BTC), inovação e música.
 
 ---
 
@@ -71,13 +72,11 @@ Sou um **Desenvolvedor Full Stack** com mais de **10 anos de experiência**, esp
 ### 📈 Minhas Estatísticas
 
 <div align="left">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=EliseuSantos&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EliseuSantos&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EliseuSantos&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EliseuSantos&theme=radical&hide_border=true&area=true" alt="Gráfico de Contribuições" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseuSantos&layout=compact&theme=radical" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseuSantos&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
@@ -85,17 +84,8 @@ Sou um **Desenvolvedor Full Stack** com mais de **10 anos de experiência**, esp
 ### 🧠 Métricas de Desenvolvimento
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EliseuSantos&layout=compact&theme=radical&custom_title=Métricas%20de%20Desenvolvimento&layout=default&range=last_7_days&hide=projects,editors,os" width="100%" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EliseuSantos&layout=compact&theme=radical&custom_title=Métricas%20de%20Desenvolvimento&range=last_7_days&hide=projects,editors,os" width="100%" alt="Wakatime Stats" />
 </p>
 
----
 
-### 🏆 Troféus do GitHub
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=EliseuSantos&theme=radical&no-bg=true&no-frame=true" alt="Troféus" />
-</p>
-
----
-
-> **Nota:** *As linguagens mostradas são baseadas nos projetos públicos do GitHub.*
+> **Nota:** *As linguagens mostradas acima são baseadas apenas nos repositórios públicos.*

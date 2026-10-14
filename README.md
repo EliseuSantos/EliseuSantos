@@ -1,65 +1,57 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Eliseu Santos — Tech Lead, Frontend Platform and Microfrontends" width="100%" />
+  <img src="./banner.jpg" alt="Eliseu Santos — Tech Lead, AI Platform: agents, MCP and RAG in production" width="100%" />
 </p>
 
 <h1 align="center">Eliseu Santos</h1>
 
 <p align="center">
-  <strong>Tech Lead · Frontend Platform & Microfrontends</strong><br />
-  Module Federation · DevX · Web Performance · Fintech
+  <strong>Tech Lead · AI Platform</strong><br />
+  Agents · MCP · RAG · Go · Python · TypeScript
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eliseusantos"><strong>LinkedIn</strong></a> ·
-  <a href="https://eliseu.dev/resume"><strong>Resume</strong></a> ·
   <a href="https://eliseu.dev"><strong>eliseu.dev</strong></a> ·
-  <a href="https://eliseu.dev/blog"><strong>Blog</strong></a>
+  <a href="https://eliseu.dev/blog"><strong>Blog</strong></a> ·
+  <a href="https://eliseu.dev/resume"><strong>Resume</strong></a> ·
+  <a href="https://www.linkedin.com/in/eliseusantos"><strong>LinkedIn</strong></a>
 </p>
-
-<p align="center"><sub>
-  EN · Tech Lead building modular front-end platforms at scale (fintech).<br />
-  Open to Tech Lead / Staff / Frontend Architect roles — remote.
-</sub></p>
 
 ---
 
-### Sobre
+### About
 
-Tech Lead em **Frontend Platform & Microfrontends** com **10+ anos** em produtos digitais de alta escala, principalmente **fintech**.
+Tech Lead with 12+ years building platforms for high-scale products, from fintech to a B2B omnichannel messaging platform. I currently lead the engineering team at **JetSales**.
 
-Foco em transformar frontends monolíticos em plataformas com **deploy independente**, **DevX previsível** e **performance mensurável** — Module Federation, observability e design systems em ambientes multi-time.
+These days my focus is **applied AI in production**: agents, the Model Context Protocol (MCP), RAG and LLM systems. I treat an LLM like any other unreliable dependency in a platform: contracts, evals, cost and latency budgets, and gradual rollout.
+
+I write about what actually worked, with numbers, at [eliseu.dev](https://eliseu.dev).
 
 | | |
 |---|---|
-| **Atual** | will bank — plataforma front-end, MFE, Datadog / New Relic |
-| **Antes** | PagBank — arquitetura front-end e app de Renda Fixa (automação de fluxo manual) |
-| **Conteúdo** | [eliseu.dev/blog](https://eliseu.dev/blog) · newsletter [MFE Brasil](https://www.linkedin.com/newsletters/mfe-brasil-7317243074475175936/) |
-| **Currículo** | [Web](https://eliseu.dev/resume) · [PDF](https://eliseu.dev/resume.pdf) · [MD](https://eliseu.dev/resume.md) · [TXT](https://eliseu.dev/resume.txt) |
+| **Now** | Tech Lead at JetSales: engineering leadership, AI-first engineering, agents and MCP |
+| **Before** | will bank (frontend platform, microfrontends, observability) · PagBank (investments) |
+| **Writing** | [eliseu.dev/blog](https://eliseu.dev/blog) |
+| **Resume** | [Web](https://eliseu.dev/resume) · [PDF](https://eliseu.dev/resume.pdf) · [Markdown](https://eliseu.dev/resume.md) |
 
 ---
 
-### Projetos em destaque
+### Featured
 
-Repos públicos alinhados ao que faço no dia a dia (o trabalho principal está em orgs privadas):
+| Project | What it is |
+|---------|------------|
+| [frontend-mcp-design-system](https://github.com/EliseuSantos/frontend-mcp-design-system) | Design system monorepo with Storybook and an MCP server, so AI agents can consume it |
+| [study-os](https://github.com/EliseuSantos/study-os) | Open-source, offline-first study platform with FSRS spaced repetition |
+| [nestjs-growthbook](https://github.com/EliseuSantos/nestjs-growthbook) | Injectable GrowthBook client for NestJS (feature flags via DI) |
+| [react-user-journey](https://github.com/EliseuSantos/react-user-journey) | User journey tracking for React apps |
 
-| Projeto | O que é |
-|---------|---------|
-| [frontend-mcp-design-system](https://github.com/EliseuSantos/frontend-mcp-design-system) | Design system em monorepo + Storybook + servidor MCP para consumo por agentes |
-| [highlighter](https://github.com/EliseuSantos/highlighter) | Lib para destacar componentes em arquiteturas micro frontend |
-| [react-user-journey](https://github.com/EliseuSantos/react-user-journey) | Tracking de jornadas de usuário em apps React |
-| [nestjs-growthbook](https://github.com/EliseuSantos/nestjs-growthbook) | Integração GrowthBook / feature flags em NestJS |
+Most of my day-to-day work lives in private organizations.
 
 ---
 
 ### Stack
 
-`TypeScript` · `React` · `Module Federation` · `Single-SPA` · `Node.js` · `NestJS` · `Design Systems` · `AWS` · `Kubernetes` · `Terraform` · `Datadog` · `CI/CD`
+`Go` · `Python` · `TypeScript` · `Node.js / NestJS` · `LLMs` · `RAG` · `MCP` · `PostgreSQL / pgvector` · `Kubernetes` · `ArgoCD` · `Datadog`
 
 ---
 
-### Contato
-
-- Site: [eliseu.dev](https://eliseu.dev)
-- LinkedIn: [linkedin.com/in/eliseusantos](https://www.linkedin.com/in/eliseusantos)
-- X: [@Eliseu__Santos](https://twitter.com/Eliseu__Santos)
-- Micro-frontends: [roadmap.sh](https://roadmap.sh/r/micro-frontend-roadmap)
+<sub>🇧🇷 Tech Lead com 12+ anos construindo plataforma. Hoje: IA aplicada em produção (agentes, MCP, RAG), em Go, Python e TypeScript. Escrevo em <a href="https://eliseu.dev">eliseu.dev</a>.</sub>

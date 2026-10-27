@@ -40,4 +40,4 @@ Most of my day-to-day code lives in private repositories.
   <a href="https://x.com/Eliseu__Santos">X</a>
 </p>
 
-<sub>🇧🇷 Tech Lead em Aracaju. Escrevo sobre IA em produção, arquitetura e liderança em <a href="https://eliseu.dev">eliseu.dev</a>.</sub>
+<sub>🇧🇷 Tech Lead em Aracaju. Escrevo sobre IA em produção, arquitetura e liderança em <a href="https://eliseu.dev">eliseu.dev</a>. Aberto a vagas remotas (Brasil e Portugal).</sub>

@@ -14,18 +14,12 @@ Most of my work now is getting AI to run in production:
 
 I write about this (in Portuguese) at [eliseu.dev](https://eliseu.dev).
 
-<p>
-  <a href="https://eliseu.dev">Site</a> ·
-  <a href="https://eliseu.dev/blog">Blog</a> ·
-  <a href="https://eliseu.dev/resume">Resume</a> (<a href="https://eliseu.dev/resume.pdf">PDF</a>) ·
-  <a href="https://www.linkedin.com/in/eliseusantos">LinkedIn</a> ·
-  <a href="https://x.com/Eliseu__Santos">X</a>
-</p>
-
-### Public projects
+### Open-source projects
 
 | Project | What it is |
 |---|---|
+| [mcp-gateway](https://github.com/EliseuSantos/mcp-gateway) | MCP gateway in Go: auth, per-client tool allowlist, audit log and OpenTelemetry tracing |
+| [frontend-ia-demos](https://github.com/EliseuSantos/frontend-ia-demos) | Frontend + AI demos: LLM streaming, Web Workers, in-browser AI with WebGPU, resilient UI in strict TypeScript |
 | [frontend-mcp-design-system](https://github.com/EliseuSantos/frontend-mcp-design-system) | Design system monorepo with Storybook and an MCP server, so AI agents can use the components |
 | [study-os](https://github.com/EliseuSantos/study-os) | Offline-first study platform with FSRS spaced repetition, study tracks and a focus timer |
 | [nestjs-growthbook](https://github.com/EliseuSantos/nestjs-growthbook) | GrowthBook client for NestJS, injected through dependency injection |
@@ -35,6 +29,15 @@ Most of my day-to-day code lives in private repositories.
 
 ### What I work with
 
-`Go` · `TypeScript` · `Python` · `NestJS` · `PostgreSQL` / `pgvector` · `RabbitMQ` · `Kubernetes` · `Argo CD` · `Datadog` · `MCP` · `Claude Code`
+`Go` · `TypeScript` · `NestJS` · `Python` · `PostgreSQL` / `pgvector` · `RabbitMQ` · `Kubernetes` · `Argo CD` · `Datadog` · `OpenTelemetry` · `MCP` · `Claude Code`
 
-<sub>Tech Lead em Aracaju. Escrevo sobre IA em produção, arquitetura e liderança em <a href="https://eliseu.dev">eliseu.dev</a>.</sub>
+<p>
+  <a href="https://eliseu.dev">Site</a> ·
+  <a href="https://eliseu.dev/blog">Blog</a> ·
+  <a href="https://eliseu.dev/projects">Projects</a> ·
+  <a href="https://eliseu.dev/resume">Resume</a> (<a href="https://eliseu.dev/resume.pdf">PDF</a>) ·
+  <a href="https://www.linkedin.com/in/eliseusantos">LinkedIn</a> ·
+  <a href="https://x.com/Eliseu__Santos">X</a>
+</p>
+
+<sub>🇧🇷 Tech Lead em Aracaju. Escrevo sobre IA em produção, arquitetura e liderança em <a href="https://eliseu.dev">eliseu.dev</a>.</sub>
